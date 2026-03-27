@@ -81,13 +81,14 @@ Your report should contain:
   <img width="714" height="377" alt="image" src="https://github.com/user-attachments/assets/877a8ab0-67b6-4059-84ee-9b1135f5e6ac" />
   ## Attenuation-Limited Fiber Length 10GB
   <img width="708" height="374" alt="image" src="https://github.com/user-attachments/assets/bd6e0aa8-15c5-4266-aa44-5d4ac6f9a23e" />
+  
   ## OUTPUT of 10GB
   
   ## Low Noise:
   <img width="1920" height="962" alt="image" src="https://github.com/user-attachments/assets/cb12ee1c-8395-4d2e-96c7-cfa3225797f6" />
   
   ## High Noise:
-<img width="1920" height="944" alt="image" src="https://github.com/user-attachments/assets/7045f76c-ff38-4b31-9d54-9713184ec306" />
+ <img width="1920" height="944" alt="image" src="https://github.com/user-attachments/assets/7045f76c-ff38-4b31-9d54-9713184ec306" />
 
 ## OUTPUT of 2.5 GB
 
