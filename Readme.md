@@ -73,13 +73,25 @@ Your report should contain:
   - Course name and number  
   - Your name  
 
-- **Pre-lab Calculations**  
+  ## Tabulation
+  <img width="1600" height="635" alt="image" src="https://github.com/user-attachments/assets/36f8399c-87b3-42f2-8d8e-e041a30de9a4" />
+  <img width="1600" height="477" alt="image" src="https://github.com/user-attachments/assets/81d2d996-f132-4834-bfdb-9a81fc57fd6e" />
 
-- **Screenshots** of layout and results (including eye diagrams)  
+  ## Attenuation-Limited Fiber Length 2.5GB
+  <img width="714" height="377" alt="image" src="https://github.com/user-attachments/assets/877a8ab0-67b6-4059-84ee-9b1135f5e6ac" />
+  ## Attenuation-Limited Fiber Length 10GB
+  <img width="708" height="374" alt="image" src="https://github.com/user-attachments/assets/bd6e0aa8-15c5-4266-aa44-5d4ac6f9a23e" />
+  ## OUTPUT of 10GB
+  ## Low Noise:
+  <img width="1920" height="962" alt="image" src="https://github.com/user-attachments/assets/cb12ee1c-8395-4d2e-96c7-cfa3225797f6" />
+  ## High Noise:
+<img width="1920" height="944" alt="image" src="https://github.com/user-attachments/assets/7045f76c-ff38-4b31-9d54-9713184ec306" />
+## OUTPUT of 2.5 GB
+## Low Noise:
+<img width="1920" height="942" alt="image" src="https://github.com/user-attachments/assets/364d961e-daa2-4ea1-8e3a-0b3998a91d26" />
+## High Noise:
+<img width="1920" height="949" alt="image" src="https://github.com/user-attachments/assets/cc5ceb26-e6a0-4d6a-af0c-c2dfdd4edd31" />
 
-- **Summary Table** for each simulation:
-  | Fiber Length (km) | Received Power (dBm) | Q Factor | BER |
-  |-------------------|-----------------------|----------|-----|
-  
+## Result
+Thus the experiment was succesfully completed and output is verified
 
-- **Written Summary** of observations and explanations of differences.  
